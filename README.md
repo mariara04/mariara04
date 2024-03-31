@@ -1,4 +1,4 @@
-###I am a 19-year-old computer science student.
+I am a 19-year-old computer science student.
 
 <!--
 **mariara04/mariara04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
